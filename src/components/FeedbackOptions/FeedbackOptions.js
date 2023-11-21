@@ -1,4 +1,4 @@
-import { List,OptionButton } from "./FeedbackOption.styled";
+import { List, OptionButton } from "./FeedbackOption.styled";
 
 export const FeedbackOptions = ({ options, onLeaveFeedback }) => {
   return (
